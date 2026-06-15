@@ -230,6 +230,5 @@ int main() {
     std::cout << "--- Propagando bloque trampa a la red ---\n";
     red_electoral.notificarNuevoBloque(bloque_trampa);
 */
-    std::cout << "\n";
     return 0;
 }
